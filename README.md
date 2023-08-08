@@ -44,5 +44,8 @@ To use custom image, please download and use plugin [Custom Images by Andavin](h
 
 This plugin was tested and worked on multi-player mode server. We do not test it on single-player mode client.
 
+## How to download from the GitHub repo
+![how-to-download](https://github.com/BatteryDie/ecd-minecraft-recreate/assets/13942195/f1534ed9-b117-4fff-acc7-c56098715156)
+
 ## Disclaimer
 NOT AN OFFICIAL MINECRAFT PRODUCT - NOT ASSOCIATED WITH MOJANG OR MICROSOFT
