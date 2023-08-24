@@ -19,7 +19,7 @@ Please watch our [video](https://youtu.be/3OBd1bf-DLU) to see what we built!
 - Carlos Balboa-Rose, Class of 2021
 
 ## Exported World files
-We exported ECD Campus into the world folder for single-player in Minecraft Java Edition client. So, people can download, import, and improve the campus in future!
+We exported ECD Campus into the world folder for single-player in Minecraft Java Edition client. So, people from ECD school can download, import, and improve the campus in future!
 
 This was built in Java Edition 1.19.3 to 1.19.4. You may upgrade or convert it to newer version.
 
@@ -32,7 +32,7 @@ GNU/Linux: `~/.minecraft/saves/`
 Mac: `~/Library/Application Support/minecraft/saves/`
 
 ## Exported Schematics
-We exported ECD Campus into schematic files. So, people can download, import, and improve the campus in future!
+We exported ECD Campus into schematic files. So, people from ECD school can download, import, and improve the campus in future!
 
 - `schematic\ecd-campus.construction` Construction Java 1.19.4
 - `schematic\ecd-campus.mcstructure` mcstructure Bedrock 1.19.70
@@ -46,6 +46,11 @@ This plugin was tested and worked on multi-player mode server. We do not test it
 
 ## How to download from the GitHub repo
 ![how-to-download](https://github.com/BatteryDie/ecd-minecraft-recreate/assets/13942195/f1534ed9-b117-4fff-acc7-c56098715156)
+**Please use 7zip (Windows) or PeaZip (Mac,Windows,&Linux) to extract one of files named** `ecd-campus.mcstructure.7z`
+
+## Alternative Download Options
+- [Archive Internet](https://archive.org/details/ECD-Minecraft-Recreate)
+- [Planet Minecraft](https://www.planetminecraft.com/project/ecd-school-for-the-deaf-minecraft-recreate/)
 
 ## Disclaimer
 NOT AN OFFICIAL MINECRAFT PRODUCT - NOT ASSOCIATED WITH MOJANG OR MICROSOFT
