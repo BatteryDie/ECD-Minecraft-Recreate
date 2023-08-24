@@ -6,8 +6,8 @@ We are sorry that we closed our public Minecraft server on August 8, 2023. We ha
 
 We publicly released the world and schematic files:
 - Our GitHub Repo [https://github.com/BatteryDie/ecd-minecraft-recreate](https://github.com/BatteryDie/ecd-minecraft-recreate)
-- Archive.org [https://archive.org/details/ECD-Minecraft-Recreate](https://archive.org/details/ECD-Minecraft-Recreate)
-- We are looking for another place to archive our project. Maybe planetminecraft.com. We will update this page.
+- Internet Archive [https://archive.org/details/ECD-Minecraft-Recreate](https://archive.org/details/ECD-Minecraft-Recreate)
+- Planet Minecraft [https://www.planetminecraft.com/project/ecd-school-for-the-deaf-minecraft-recreate/)
 
 Of course, you can play or improve the ECD campus in Minecraft single-player or online in future!
 
